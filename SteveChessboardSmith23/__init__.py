@@ -1,1 +1,1 @@
-From SteveChessboardSmith.ChessBoard2000 import
+from SteveChessboardSmith.ChessBoard2000 import
